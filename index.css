@@ -1,0 +1,15 @@
+#items{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 16em;
+    margin-right: 16em;
+    background-color: lightgray;
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
